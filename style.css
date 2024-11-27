@@ -1,6 +1,6 @@
 body {
-    background-color: #d68686;
-    color: rgba(221, 110, 20, 0.329);
+    background-color: #d3d3d3;
+    color: rgba((233, 193, 160);
     font-family: "Bai Jamjuree", sans-serif;
     display: flex;
     justify-content: center;
@@ -11,7 +11,7 @@ body {
 
 button {
     background-color: #24cdebd3;
-    color: rgba(20, 34, 224, 0.918);
+    color: rgba((252, 254, 255, 0.918);
     font-family: "Bai Jamjuree", sans-serif;
 }
 
